@@ -1,0 +1,81 @@
+body{
+    background-image: url(https://www.65ymas.com/uploads/s1/29/71/42/5-libros-imprescindibles-con-barcelona-como-telo-n-de-fondo.jpeg);
+    background-size: 100%;
+    background-repeat:no-repeat;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(244, 238, 188) ;
+    font-size: 24px;
+}
+#main-container{
+
+    margin-left: 2cm;
+    width: 600px;
+}
+
+#main-container form input{
+    
+    margin-top: 0%;
+
+    font-size: 16px;
+    padding: 8px;
+    width: 558px;
+   
+}
+
+h3 {
+
+
+    padding: 5px 2px;
+    font-size:135%;
+    font-family:Caveat,Arial, Helvetica, sans-serif; 
+    color:rgb(111, 99, 90) ; 
+    margin-bottom: 0%;
+
+}
+
+
+#libros .libro{
+    font-size: 16px;
+    width: 100%;
+    margin: 10px 2px;
+}
+
+#libros .libro div{
+    display: inline-block;
+    padding: 5px 2px;
+    
+}
+#libros .libro .checkbox-container{
+    width: 25px;
+}
+
+#libros .libro .checkbox-container input{
+    transform: scale(2);
+    -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -ms-transform: scale(2);
+    -o-transform: scale(2);
+}
+
+#libros .libro .titulo-container{
+    font-weight: bold;
+    /* font-style: italic; */
+    color: black;
+    width: 495px;
+}
+
+#libros .libro .leido{
+    font-style: italic;
+    color: rgb(170, 60, 60);
+    text-decoration: line-through;
+}
+
+#libros .libro .actions-container a{
+    color: rgb(18, 3, 3);
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 10px;
+}
+#libros .libro .actions-container a:hover{
+    color: rgb(121, 165, 237);
+}
