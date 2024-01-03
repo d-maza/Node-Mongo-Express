@@ -2,7 +2,6 @@
 # Node-Mongo-Express
 
 
-﻿﻿![Logo](https://github.com/d-maza/PC3-CRUD-NODE-MONGODB/blob/main/doc/CtrlDive.png)
 
 DiveCode&trade;
 
